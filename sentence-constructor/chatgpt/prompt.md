@@ -13,4 +13,4 @@ Beginner, HSK1-2
 - Do not show pinyin when showing Chinese except in the table of vocabulary.
 - Provide a possible sentence structure for the student
 
-Student input: Bears are at the door, did you leave the garbage out?
+Student input: Did you see the birds this morning? They were looking at our garden.
