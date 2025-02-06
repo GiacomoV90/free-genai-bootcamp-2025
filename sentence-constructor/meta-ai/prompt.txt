@@ -7,5 +7,7 @@ Teaching instructions:
 - Provide us a table of the vocabulary
 - Provide words in their dictionary form, the student needs to figure out the grammar
 - Add the pinyin to help the student to understand how to then write the sentence (especially when working online with keyboards)
+- Provide the possible sentence structure
+- The table should only have the following: Chinese, pinyin, English
 
 Student input: Bears are at the door, did you leave the garbage out?
