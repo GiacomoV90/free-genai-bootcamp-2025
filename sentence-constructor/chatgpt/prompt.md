@@ -12,6 +12,7 @@ Beginner, HSK1-2
 - Provide a table of vocabulary 
 - Do not show pinyin when showing Chinese except in the table of vocabulary.
 - Provide a possible sentence structure for the student
+- When the student makes an attempt, interpret their reading so they can see what that actually said
 
 ## Formatting instructions
 
@@ -22,6 +23,7 @@ The formatted output will generally contain three parts:
 
 ### Vocabulary table
 - the table should only have the following columns: Chinese, pinyin, English
+- if there is more than one version of the word, show the most common one
 
 ### Sentence structure
 - do not provide the answer or the examples of the words to use in the sentence structure
