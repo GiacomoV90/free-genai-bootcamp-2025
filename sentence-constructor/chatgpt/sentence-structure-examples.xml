@@ -2,53 +2,42 @@
   <basic_statements>
     <structure>
       <pattern>[Subject] + [Verb] + [Object]</pattern>
-      <example>我 学习 中文。(I study Chinese.)</example>
     </structure>
     <structure>
       <pattern>[Subject] + [Time] + [Verb] + [Object]</pattern>
-      <example>我 今天 吃 米饭。(I eat rice today.)</example>
     </structure>
     <structure>
       <pattern>[Subject] + [Location] + [Verb] + [Object]</pattern>
-      <example>我 在 学校 读书。(I study at school.)</example>
     </structure>
   </basic_statements>
 
   <yes_no_questions>
     <structure>
       <pattern>[Subject] + [Verb] + [Object] + 吗？</pattern>
-      <example>你 喜欢 中国菜 吗？(Do you like Chinese food?)</example>
     </structure>
     <structure>
       <pattern>[Subject] + [Time] + [Verb] + [Object] + 吗？</pattern>
-      <example>你 今天 吃 面包 吗？(Did you eat bread today?)</example>
     </structure>
     <structure>
       <pattern>[Verb] + 不 + [Verb] + [Object]?</pattern>
-      <example>你 是不是 学生？(Are you a student?)</example>
     </structure>
   </yes_no_questions>
 
   <wh_questions>
     <structure>
       <pattern>[Subject] + [Verb] + 什么？</pattern>
-      <example>你 吃 什么？(What are you eating?)</example>
     </structure>
     <structure>
       <pattern>[Subject] + [Verb] + 哪个？</pattern>
-      <example>你 喜欢 哪个？(Which one do you like?)</example>
     </structure>
     <structure>
       <pattern>[Subject] + 什么时候 + [Verb] + [Object]?</pattern>
-      <example>你 什么时候 去 北京？(When are you going to Beijing?)</example>
     </structure>
     <structure>
       <pattern>[Subject] + 为什么 + [Verb] + [Object]?</pattern>
-      <example>你 为什么 学中文？(Why do you study Chinese?)</example>
     </structure>
     <structure>
       <pattern>[Subject] + 怎么 + [Verb] + [Object]?</pattern>
-      <example>你 怎么 去 学校？(How do you go to school?)</example>
     </structure>
   </wh_questions>
 </sentence_structures>
